@@ -35,7 +35,7 @@ if (document.getElementById('map') && document.getElementById('opportunities-lis
     const map = new maplibregl.Map({
         container: 'map',
         style: 'https://demotiles.maplibre.org/style.json',
-        center: [28.0473, -26.2041],
+        center: [28.0473, -26.2041], // Centered on South Africa
         zoom: 5,
         attributionControl: false
     });
@@ -99,7 +99,7 @@ if (document.getElementById('map') && document.getElementById('opportunities-lis
     // ==========================================
     // 4. FETCH LIVE DATA
     // ==========================================
-    let liveOpportunities = []; // Store the data here so our filters can use it
+    let liveOpportunities = []; 
 
     fetch('/opportunities.json')
         .then(response => {
@@ -107,8 +107,8 @@ if (document.getElementById('map') && document.getElementById('opportunities-lis
             return response.json();
         })
         .then(data => {
-            liveOpportunities = data; // Save the live data
-            renderData(liveOpportunities); // Draw the map and cards!
+            liveOpportunities = data; 
+            renderData(liveOpportunities); 
         })
         .catch(error => {
             console.error("Error fetching opportunities:", error);
@@ -132,7 +132,7 @@ if (document.getElementById('map') && document.getElementById('opportunities-lis
 
             // Actual Filtering
             const selectedSector = e.target.innerText.trim(); 
-            let filteredArray = liveOpportunities; // Use our new live data!
+            let filteredArray = liveOpportunities; 
             
             if (selectedSector !== "All Fields") {
                 filteredArray = liveOpportunities.filter(opp => opp.sector === selectedSector);
