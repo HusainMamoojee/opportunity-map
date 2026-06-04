@@ -24,30 +24,9 @@ if (closeBtn && sidebar) {
         sidebar.classList.remove('mobile-sidebar-active');
     });
 }
-// ==========================================
-// 3. THE DUMMY DATABASE
-// ==========================================
-const opportunities = [
-    {
-        id: 1, title: "Data Science Graduate Programme", company: "Standard Bank Group", type: "INTERNSHIP", 
-        location: "Johannesburg", lng: 28.0473, lat: -26.2041, tag: "NEW", sector: "Tech"
-    },
-    {
-        id: 2, title: "Software Engineering Bursary", company: "Retro Rabbit", type: "BURSARY", 
-        location: "Pretoria", lng: 28.2293, lat: -25.7479, tag: "CLOSING SOON", sector: "Tech"
-    },
-    {
-        id: 3, title: "Junior Financial Analyst", company: "Investec", type: "ENTRY LEVEL", 
-        location: "Sandton", lng: 28.0567, lat: -26.1076, tag: "HOT MATCH", sector: "Finance"
-    },
-    {
-        id: 4, title: "Mechanical Engineering Learnership", company: "Sasol", type: "LEARNERSHIP", 
-        location: "Secunda", lng: 29.1895, lat: -26.5161, tag: "NEW", sector: "Engineering"
-    }
-];
 
 // ==========================================
-// 4. MAP & RENDER LOGIC
+// 3. MAP & RENDER LOGIC
 // (Wrapped in an IF statement so it only runs on the Map page)
 // ==========================================
 if (document.getElementById('map') && document.getElementById('opportunities-list')) {
@@ -117,14 +96,33 @@ if (document.getElementById('map') && document.getElementById('opportunities-lis
         });
     }
 
-    // Initial Load
-    renderData(opportunities);
+    // ==========================================
+    // 4. FETCH LIVE DATA
+    // ==========================================
+    let liveOpportunities = []; // Store the data here so our filters can use it
 
-    // Filter Logic
+    fetch('/opportunities.json')
+        .then(response => {
+            if (!response.ok) throw new Error("Could not load data");
+            return response.json();
+        })
+        .then(data => {
+            liveOpportunities = data; // Save the live data
+            renderData(liveOpportunities); // Draw the map and cards!
+        })
+        .catch(error => {
+            console.error("Error fetching opportunities:", error);
+            listContainer.innerHTML = '<p class="p-3 text-muted">Failed to load opportunities. Please try again later.</p>';
+        });
+
+    // ==========================================
+    // 5. FILTER LOGIC
+    // ==========================================
     const filterButtons = document.querySelectorAll('.filter-scroll button');
     filterButtons.forEach(button => {
         button.addEventListener('click', (e) => {
             
+            // UI Button toggling
             filterButtons.forEach(btn => {
                 btn.classList.remove('btn-primary', 'fw-medium');
                 btn.classList.add('pill-inactive');
@@ -132,11 +130,12 @@ if (document.getElementById('map') && document.getElementById('opportunities-lis
             e.target.classList.remove('pill-inactive');
             e.target.classList.add('btn-primary', 'fw-medium');
 
+            // Actual Filtering
             const selectedSector = e.target.innerText.trim(); 
-            let filteredArray = opportunities; 
+            let filteredArray = liveOpportunities; // Use our new live data!
             
             if (selectedSector !== "All Fields") {
-                filteredArray = opportunities.filter(opp => opp.sector === selectedSector);
+                filteredArray = liveOpportunities.filter(opp => opp.sector === selectedSector);
             }
             renderData(filteredArray);
         });
