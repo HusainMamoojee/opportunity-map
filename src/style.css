@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --primary-blue: #0052FF;
+  --radar-teal: #00F5D4;
+  --bg-sidebar: #F4F5F9;
+  --bg-card: #FFFFFF;
+  --text-main: #0F172A;
+  --text-muted: #64748B;
+  --border-color: #E2E8F0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: var(--text-main);
+}
+
+/* Let's override our sidebar backgrounds to match your light-mode dashboard UI */
+.bg-light-sidebar {
+  background-color: var(--bg-sidebar) !important;
+  border-color: var(--border-color) !important;
+}
+
+/* Customizing the cards to look like premium Notion/Stripe components */
+.custom-op-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.custom-op-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+}
+
+/* Override Bootstrap's primary button to match your exact hex blue */
+.btn-primary {
+  background-color: var(--primary-blue) !important;
+  border-color: var(--primary-blue) !important;
+  border-radius: 8px;
+}
+
+/* Filter Pills Container - Hides the scrollbar but keeps it scrollable */
+.filter-scroll {
+  overflow-x: auto;
+  white-space: nowrap;
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+.filter-scroll::-webkit-scrollbar {
+  display: none; /* Chrome, Safari and Opera */
+}
+
+/* Custom styling for inactive filter pills */
+.pill-inactive {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  color: var(--text-muted);
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.pill-inactive:hover {
+  background-color: #F8FAFC;
+  color: var(--text-main);
+}
+
+/* Custom Dropdown Styling */
+.custom-select {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  color: var(--text-main);
+  font-size: 0.875rem;
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+}
+
+
+/* --- LANDING PAGE STYLES --- */
+
+/* The massive dark-mode hero container */
+.radar-hero-card {
+  background: radial-gradient(circle at center, #1E293B 0%, #0F172A 100%);
+  border-radius: 24px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+/* Custom text utility for your glowing teal color */
+.text-teal {
+  color: var(--radar-teal) !important;
+}
+
+/* The dark semi-transparent button for 'View Sector Map' */
+.btn-glass {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  backdrop-filter: blur(10px);
+  transition: all 0.2s ease;
+}
+
+.btn-glass:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: white;
+}
+
+
+/* --- RADAR BLIP ANIMATIONS --- */
+
+@keyframes pulse-ring {
+  0% { transform: scale(0.8); box-shadow: 0 0 0 0 rgba(0, 245, 212, 0.4); }
+  70% { transform: scale(1); box-shadow: 0 0 0 20px rgba(0, 245, 212, 0); }
+  100% { transform: scale(0.8); box-shadow: 0 0 0 0 rgba(0, 245, 212, 0); }
+}
+
+.radar-blip {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  background-color: var(--radar-teal);
+  border-radius: 50%;
+  animation: pulse-ring 2.5s infinite;
+  opacity: 0.5;
+  z-index: 0; /* Keeps them behind the text */
+}
+
+/* Ensure the text stays on top of the blips */
+.radar-hero-card > * {
+  z-index: 1;
+  position: relative;
+}
+
+
+/* --- DASHBOARD STYLES --- */
+
+/* The Blue AI Match Card */
+.ai-match-card {
+  background: linear-gradient(135deg, var(--primary-blue) 0%, #003BB5 100%);
+  color: white;
+  border-radius: 16px;
+  border: none;
+  box-shadow: 0 10px 15px -3px rgba(0, 82, 255, 0.2);
+}
+
+/* Dashboard Metric Cards (Deadlines, Saved) */
+.metric-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 16px;
+  height: 100%;
+}
+
+/* Small right-arrow icon button for lists */
+.btn-arrow {
+  background: transparent;
+  border: none;
+  color: var(--primary-blue);
+  font-weight: bold;
+  padding: 0;
+  transition: transform 0.2s ease;
+}
+
+.btn-arrow:hover {
+  transform: translateX(4px);
+}
+
+
+/* ==========================================
+   RESPONSIVENESS (MOBILE & TABLET)
+============================================= */
+@media (max-width: 991px) {
+  
+  /* Make the main area stack vertically instead of horizontally */
+  .mobile-stack {
+    flex-direction: column !important;
+  }
+
+  /* Force the map to take exactly half the phone screen */
+  #map {
+    height: 50vh !important;
+    flex-grow: 0 !important;
+  }
+
+  /* Make the right-hand Live Feed take up the full width and the bottom half */
+  .live-feed-sidebar {
+    width: 100% !important;
+    height: 50vh !important;
+    border-left: none !important;
+    border-top: 1px solid var(--border-color);
+  }
+
+  /* Reduce massive padding on the dashboard for smaller screens */
+  .dashboard-main {
+    padding: 1.5rem !important;
+  }
+}
+
+/* ==========================================
+   MOBILE SIDEBAR OVERLAY
+============================================= */
+@media (max-width: 991px) {
+  .mobile-sidebar-active {
+    display: flex !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 260px !important;
+    height: 100vh !important;
+    background-color: #f8f9fa !important; /* Forces a solid background */
+    z-index: 99999 !important; /* Puts it above EVERYTHING */
+    /* This creates the dark dimming effect over the map when the menu opens */
+    box-shadow: 100vw 0 0 100vw rgba(0, 0, 0, 0.4), 10px 0 20px rgba(0,0,0,0.3) !important; 
+  }
+  
+  /* Make sure the close button inside the menu is visible */
+  #close-menu-btn {
+    z-index: 100000 !important;
+  }
+}

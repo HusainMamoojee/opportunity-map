@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpportunityMap | Dashboard</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/src/style.css">
+</head>
+<body class="bg-white text-dark">
+
+<div class="d-flex flex-column flex-lg-row vh-100 overflow-hidden">
+
+  <div class="d-flex d-lg-none justify-content-between align-items-center p-3 bg-white border-bottom flex-shrink-0" style="z-index: 10;">
+    <h5 class="fw-bold m-0 text-primary" style="letter-spacing: -1px;">PATHFINDER</h5>
+    <button id="mobile-menu-btn" class="btn btn-sm btn-light border fw-bold">☰ Menu</button>
+  </div>
+
+  <aside id="left-sidebar" class="d-none d-lg-flex flex-column p-3 bg-light-sidebar" style="width: 250px; border-right: 1px solid var(--border-color); flex-shrink: 0; z-index: 10;">
+    
+    <button id="close-menu-btn" class="btn-close d-lg-none position-absolute end-0 top-0 m-3"></button>
+
+    <div class="mb-4 mt-2">
+      <h4 class="fw-bold m-0" style="color: var(--text-main);">CONTROL</h4>
+      <h4 class="fw-bold m-0" style="color: var(--text-main);">CENTER</h4>
+      <small class="text-secondary">Active Opportunities: 1,284</small>
+    </div>
+    
+    <a href="index.html" class="btn btn-primary mb-4 fw-bold text-white">Scan Radar</a>
+    
+    <ul class="nav nav-pills flex-column mb-auto">
+      <li class="nav-item mb-2"><a href="landing.html" class="nav-link text-dark">Radar</a></li>
+      <li class="nav-item mb-2"><a href="index.html" class="nav-link text-dark">Map</a></li>
+      <li class="nav-item mb-2"><a href="dashboard.html" class="nav-link active bg-primary text-white">Dashboard</a></li>
+      <li class="nav-item mb-2"><a href="#" class="nav-link text-dark">Applications</a></li>
+      <li class="nav-item mb-2"><a href="#" class="nav-link text-dark">Profile</a></li>
+    </ul>
+    
+    <div class="mt-auto"><a href="#" class="nav-link text-secondary">Support</a></div>
+  </aside>
+
+  <main class="flex-grow-1 overflow-auto p-3 p-md-5 dashboard-main" style="background-color: #F8FAFC;">
+    
+    <div class="d-flex flex-column flex-md-row justify-content-between align-items-start align-items-md-end gap-3 mb-4 mb-md-5">
+      <div>
+        <h2 class="fw-bold mb-1" style="color: var(--text-main); letter-spacing: -1px;">Opportunities Dashboard</h2>
+        <p class="text-secondary m-0">Your personalized mission control for career advancement.</p>
+      </div>
+      <div class="d-flex gap-2 w-100 w-md-auto">
+        <button class="btn btn-light border fw-medium px-4 flex-grow-1 flex-md-grow-0">Filters</button>
+        <button class="btn btn-dark fw-medium px-4 flex-grow-1 flex-md-grow-0">+ New Search</button>
+      </div>
+    </div>
+
+    <div class="row g-4 mb-5">
+      
+      <div class="col-12 col-md-4">
+        <div class="card ai-match-card p-4 h-100 d-flex flex-column justify-content-between">
+          <div>
+            <span class="badge bg-white text-primary mb-3">🌱 AI Matching Score</span>
+            <p class="small text-white-50 m-0">Based on your latest profile update</p>
+          </div>
+          <div class="d-flex align-items-end justify-content-between mt-4">
+            <h1 class="display-3 fw-bold m-0" style="line-height: 0.8;">94%</h1>
+            <span class="small fw-medium text-white-50">📈 +2% this week</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-md-4">
+        <div class="card metric-card p-4 h-100">
+          <div class="d-flex justify-content-between align-items-center mb-3">
+            <h6 class="fw-bold m-0">⏱ Upcoming Deadlines</h6>
+            <span class="badge bg-danger bg-opacity-10 text-danger border border-danger border-opacity-25">2 Urgent</span>
+          </div>
+          
+          <div class="d-flex justify-content-between align-items-center border-bottom pb-2 mb-2 mt-3">
+            <div>
+              <p class="fw-bold m-0" style="font-size: 0.9rem;">Standard Bank Bursary</p>
+              <small class="text-secondary">Closes in 2 days</small>
+            </div>
+            <button class="btn-arrow">→</button>
+          </div>
+          
+          <div class="d-flex justify-content-between align-items-center">
+            <div>
+              <p class="fw-bold m-0" style="font-size: 0.9rem;">Fintech Graduate Prog.</p>
+              <small class="text-secondary">Closes in 5 days</small>
+            </div>
+            <button class="btn-arrow">→</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-md-4">
+        <div class="card metric-card p-4 h-100 position-relative overflow-hidden">
+          <h6 class="fw-bold mb-1">🔖 Saved Opportunities</h6>
+          <p class="text-secondary small">Ready for review</p>
+          
+          <div class="mt-auto pt-4 d-flex justify-content-between align-items-center">
+             <div class="d-flex">
+                <div class="rounded-circle bg-primary text-white d-flex align-items-center justify-content-center border border-2 border-white" style="width: 35px; height: 35px; font-size: 0.7rem; z-index: 3;">SB</div>
+                <div class="rounded-circle bg-dark text-white d-flex align-items-center justify-content-center border border-2 border-white ms-n2" style="width: 35px; height: 35px; font-size: 0.7rem; z-index: 2; margin-left: -10px;">NB</div>
+                <div class="rounded-circle bg-secondary text-white d-flex align-items-center justify-content-center border border-2 border-white ms-n2" style="width: 35px; height: 35px; font-size: 0.7rem; z-index: 1; margin-left: -10px;">+4</div>
+             </div>
+             <a href="#" class="text-primary fw-bold text-decoration-none small">View All</a>
+          </div>
+          <div class="position-absolute rounded-circle" style="width: 150px; height: 150px; background-color: var(--radar-teal); opacity: 0.1; bottom: -50px; right: -50px;"></div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="d-flex justify-content-between align-items-center mb-4 mt-4">
+        <h4 class="fw-bold m-0" style="color: var(--text-main);">Top Matches for You</h4>
+    </div>
+
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+      
+      <div class="col">
+        <div class="card custom-op-card p-3 h-100 border-0 shadow-sm">
+          <div class="card-body">
+            <span class="badge mb-2 text-dark" style="background-color: var(--radar-teal);">BURSARY</span> 
+            <span class="badge bg-light text-dark border mb-2">FINANCE</span>
+            <h5 class="card-title fw-bold mt-2" style="color: var(--text-main);">Actuarial Science Excellence Award</h5>
+            <p class="card-text text-secondary small">Standard Bank Group • Johannesburg</p>
+            <div class="d-flex justify-content-between align-items-center mt-4 pt-3 border-top">
+                <small class="text-danger fw-medium">⏱ Closes 24 Oct</small>
+                <span class="text-primary fw-bold small">98% Match</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card custom-op-card p-3 h-100 border-0 shadow-sm">
+          <div class="card-body">
+            <span class="badge bg-dark text-white mb-2">INTERNSHIP</span> 
+            <span class="badge bg-light text-dark border mb-2">TECH</span>
+            <h5 class="card-title fw-bold mt-2" style="color: var(--text-main);">Software Engineering Graduate Program</h5>
+            <p class="card-text text-secondary small">TechFlow Solutions • Cape Town (Remote)</p>
+            <div class="d-flex justify-content-between align-items-center mt-4 pt-3 border-top">
+                <small class="text-secondary fw-medium">⏱ Closes 15 Nov</small>
+                <span class="text-primary fw-bold small">92% Match</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col">
+        <div class="card custom-op-card p-3 h-100 border-0 shadow-sm">
+          <div class="card-body">
+            <span class="badge bg-primary text-white mb-2">LEARNERSHIP</span> 
+            <span class="badge bg-light text-dark border mb-2">ENGINEERING</span>
+            <h5 class="card-title fw-bold mt-2" style="color: var(--text-main);">Mechanical Engineering Apprenticeship</h5>
+            <p class="card-text text-secondary small">Sasol • Secunda</p>
+            <div class="d-flex justify-content-between align-items-center mt-4 pt-3 border-top">
+                <small class="text-secondary fw-medium">⏱ Closes 30 Nov</small>
+                <span class="text-primary fw-bold small">88% Match</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  </main>
+</div>
+
+<script type="module" src="/src/main.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

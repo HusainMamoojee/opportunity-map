@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OpportunityMap | Find your next opportunity</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="/src/style.css">
+</head>
+<body class="bg-white text-dark">
+
+<div class="d-flex flex-column flex-lg-row vh-100 overflow-hidden">
+
+  <div class="d-flex d-lg-none justify-content-between align-items-center p-3 bg-white border-bottom flex-shrink-0" style="z-index: 9999; position: relative;">
+    <h5 class="fw-bold m-0 text-primary" style="letter-spacing: -1px;">PATHFINDER</h5>
+    <button id="mobile-menu-btn" class="btn btn-sm btn-light border fw-bold">☰ Menu</button>
+  </div>
+
+  <aside id="left-sidebar" class="d-none d-lg-flex flex-column p-3 bg-light-sidebar" style="width: 250px; border-right: 1px solid var(--border-color); flex-shrink: 0; z-index: 10;">
+    
+    <button id="close-menu-btn" class="btn-close d-lg-none position-absolute end-0 top-0 m-3"></button>
+
+    <div class="mb-4 mt-2">
+      <h4 class="fw-bold m-0" style="color: var(--text-main);">CONTROL</h4>
+      <h4 class="fw-bold m-0" style="color: var(--text-main);">CENTER</h4>
+      <small class="text-secondary">Active Opportunities: 1,284</small>
+    </div>
+    
+    <button class="btn btn-primary mb-4 fw-bold text-white">Scan Radar</button>
+    
+    <ul class="nav nav-pills flex-column mb-auto">
+      <li class="nav-item mb-2"><a href="landing.html" class="nav-link text-dark">Radar</a></li>
+      <li class="nav-item mb-2"><a href="index.html" class="nav-link active bg-primary text-white">Map</a></li>
+      <li class="nav-item mb-2"><a href="dashboard.html" class="nav-link text-dark">Dashboard</a></li>
+      <li class="nav-item mb-2"><a href="#" class="nav-link text-dark">Applications</a></li>
+      <li class="nav-item mb-2"><a href="#" class="nav-link text-dark">Profile</a></li>
+    </ul>
+    
+    <div class="mt-auto"><a href="#" class="nav-link text-secondary">Support</a></div>
+  </aside>
+
+  <main class="d-flex flex-grow-1 mobile-stack">
+    
+    <div id="map" class="flex-grow-1 position-relative"></div>
+
+    <aside class="p-3 bg-light-sidebar overflow-auto live-feed-sidebar" style="width: 400px; border-left: 1px solid var(--border-color); flex-shrink: 0; z-index: 10;">
+      
+      <div class="d-flex justify-content-between align-items-center mb-3">
+        <h5 class="m-0 fw-bold" style="color: var(--text-main);">Live Feed</h5>
+        <button class="btn btn-sm btn-light border-0 bg-transparent">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon></svg>
+        </button>
+      </div>
+      
+      <div class="d-flex gap-2 mb-3 filter-scroll pb-1">
+        <button class="btn btn-primary rounded-pill btn-sm px-3 fw-medium">All Fields</button>
+        <button class="btn pill-inactive rounded-pill btn-sm px-3">Tech</button>
+        <button class="btn pill-inactive rounded-pill btn-sm px-3">Finance</button>
+        <button class="btn pill-inactive rounded-pill btn-sm px-3">Engineering</button>
+      </div>
+
+      <div class="d-flex gap-2 mb-4">
+        <select class="form-select form-select-sm rounded-3 custom-select">
+          <option selected>Any Type</option>
+          <option value="internship">Internships</option>
+          <option value="bursary">Bursaries</option>
+          <option value="graduate">Graduate Programmes</option>
+        </select>
+        <select class="form-select form-select-sm rounded-3 custom-select">
+          <option selected>Any Location</option>
+          <option value="jhb">Johannesburg</option>
+          <option value="cpt">Cape Town</option>
+          <option value="remote">Remote</option>
+        </select>
+      </div>
+      
+      <div id="opportunities-list" class="d-flex flex-column gap-3"></div>
+      
+    </aside>
+  </main>
+</div>
+
+<script type="module" src="/src/main.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
