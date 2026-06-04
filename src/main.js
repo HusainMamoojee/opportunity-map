@@ -141,3 +141,79 @@ if (document.getElementById('map') && document.getElementById('opportunities-lis
         });
     });
 }
+
+// ==========================================
+// 6. AI CV SCANNER LOGIC
+// (Only runs on the scanner.html page)
+// ==========================================
+if (document.getElementById('cv-input') && document.getElementById('scan-btn')) {
+    
+    const scanBtn = document.getElementById('scan-btn');
+    const cvInput = document.getElementById('cv-input');
+    const loadingState = document.getElementById('loading-state');
+    const resultsContainer = document.getElementById('results-container');
+
+    scanBtn.addEventListener('click', async () => {
+        const cvText = cvInput.value.trim();
+        
+        if (!cvText) {
+            alert("Please paste your CV text before scanning.");
+            return;
+        }
+
+        // 1. Update UI to show loading
+        scanBtn.disabled = true;
+        resultsContainer.innerHTML = '';
+        loadingState.classList.remove('d-none');
+
+        try {
+            // 2. Fetch the live jobs database
+            const jobsResponse = await fetch('/opportunities.json');
+            const jobsData = await jobsResponse.json();
+
+            // 3. Send CV and Jobs to your secure Vercel API
+            const matchResponse = await fetch('/api/match', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ cvText: cvText, jobs: jobsData })
+            });
+
+            if (!matchResponse.ok) {
+                throw new Error("API request failed");
+            }
+
+            const matches = await matchResponse.json();
+
+            // 4. Hide loading and render results
+            loadingState.classList.add('d-none');
+            
+            matches.forEach(match => {
+                // Find the full job data using the ID returned by the AI
+                const jobDetails = jobsData.find(j => j.id === match.id);
+                
+                if (jobDetails) {
+                    const matchCard = `
+                        <div class="card border-0 shadow-sm p-4 mb-3" style="border-radius: 12px; border-left: 5px solid #0052FF !important;">
+                            <div class="d-flex justify-content-between align-items-center mb-2">
+                                <h5 class="fw-bold text-dark m-0">${jobDetails.title}</h5>
+                                <span class="badge bg-success" style="font-size: 14px;">${match.percentage}% Match</span>
+                            </div>
+                            <p class="text-secondary fw-medium mb-3">${jobDetails.company} • 📍 ${jobDetails.location}</p>
+                            <div class="p-3 bg-light rounded text-dark small">
+                                <strong>AI Insight:</strong> ${match.reason}
+                            </div>
+                        </div>
+                    `;
+                    resultsContainer.innerHTML += matchCard;
+                }
+            });
+
+        } catch (error) {
+            console.error("Scanning Error:", error);
+            loadingState.classList.add('d-none');
+            resultsContainer.innerHTML = `<p class="text-danger text-center">An error occurred while analyzing your CV. Please try again.</p>`;
+        } finally {
+            scanBtn.disabled = false;
+        }
+    });
+}
