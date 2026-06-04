@@ -33,11 +33,13 @@ if (document.getElementById('map') && document.getElementById('opportunities-lis
     
     // Initialize the MapLibre Engine
     const map = new maplibregl.Map({
-        container: 'map',
-        style: 'https://demotiles.maplibre.org/style.json',
-        center: [28.0473, -26.2041], // Centered on South Africa
-        zoom: 5,
-        attributionControl: false
+       container: 'map', // your container id
+    
+    // Replace your old style line with this modern street map style:
+    style: 'https://basemaps.cartocdn.com/gl/voyager-gl-style/style.json',
+    
+    center: [28.0473, -26.2041], // Centered on Johannesburg
+    zoom: 5
     });
 
     map.addControl(new maplibregl.NavigationControl(), 'top-right');

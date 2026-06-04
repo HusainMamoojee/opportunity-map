@@ -32,16 +32,21 @@ def scrape_opportunities():
     
     job_id = 1
     for link in job_links:
-        # Clean up the title and remove the random " New" text
-        title = link.text.strip().replace(" New", "") 
+        # 1. Clean up the text and remove the "New" badge
+        raw_text = link.get_text(separator=' ').replace(" New", "").strip()
+        
+        # 2. CRUSH SPACES: Fixes the hidden space bug
+        title = " ".join(raw_text.split()) 
         title_lower = title.lower() 
         
         keywords = ["programme", "graduate", "intern", "learnership", "bursary", "trainee"]
         
-        # 1. Stricter Length Filter: > 30 characters to ignore menu links
-        if len(title) > 30 and any(keyword in title_lower for keyword in keywords):
+        # 3. JUNK FILTER: Ignore short titles, menu items, or categories
+        is_category_link = len(title) < 20 or (any(word.isdigit() for word in title.split()) and len(title) < 30)
+        
+        if not is_category_link and any(keyword in title_lower for keyword in keywords):
             
-            # 2. Smarter Company Name Extraction
+            # Smarter Company Name Extraction
             if ":" in title:
                 company = title.split(':')[0].strip()
             elif "-" in title:
@@ -50,15 +55,15 @@ def scrape_opportunities():
                 words = title.split(' ')
                 company = " ".join(words[:2]) if len(words) >= 2 else words[0]
             
-            # 3. Location Checking
+            # Location Checking (Expanded for better accuracy)
             location = "South Africa"
-            if "johannesburg" in title_lower or "jhb" in title_lower: location = "Johannesburg"
-            elif "pretoria" in title_lower or "pta" in title_lower: location = "Pretoria"
-            elif "cape town" in title_lower or "cpt" in title_lower: location = "Cape Town"
+            if "johannesburg" in title_lower or "jhb" in title_lower or "gauteng" in title_lower: location = "Johannesburg"
+            elif "pretoria" in title_lower or "pta" in title_lower or "tshwane" in title_lower: location = "Pretoria"
+            elif "cape town" in title_lower or "cpt" in title_lower or "western cape" in title_lower: location = "Cape Town"
             elif "sandton" in title_lower: location = "Sandton"
-            elif "durban" in title_lower or "dbn" in title_lower: location = "Durban"
+            elif "durban" in title_lower or "dbn" in title_lower or "kzn" in title_lower: location = "Durban"
             
-            # 4. Dynamic Job Types for UI Badges
+            # Dynamic Job Types
             job_type = "ENTRY LEVEL"
             if "intern" in title_lower: job_type = "INTERNSHIP"
             elif "bursary" in title_lower: job_type = "BURSARY"
@@ -79,7 +84,7 @@ def scrape_opportunities():
                 "sector": "All Fields" 
             }
             
-            # 5. Prevent Duplicates
+            # Prevent Duplicates
             if not any(opp['title'] == title for opp in scraped_data):
                 scraped_data.append(opportunity)
                 job_id += 1
