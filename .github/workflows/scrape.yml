@@ -1,0 +1,52 @@
+name: Automated Radar Scraper
+
+on:
+  schedule:
+    # Runs automatically every single night at 00:00 UTC (2:00 AM South African Time)
+    - cron: '0 0 * * *'
+  workflow_dispatch: 
+
+permissions:
+  contents: write # Allows the automated runner to commit and push changes back t repo
+
+jobs:
+  build-and-scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Download your repository files onto the GitHub cloud server
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    # 2. Initialize a secure Python environment
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    # 3. Install the specific dependencies your scraper relies on
+    - name: Install Scraper Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    # 4. Execute your python script
+    - name: Run Scraper Script
+      run: python backend-scripts/scraper.py
+
+    # 5. Check if the json data changed, and push it back to GitHub if it did
+    - name: Commit and Push Updated Data
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Stage the generated file
+        git add public/opportunities.json
+        
+        # Only commit and push if new jobs were actually found
+        if ! git diff --cached --quiet; then
+          git commit -m "Automated Radar Sync: Fresh job data scraped"
+          git push origin main
+        else
+          echo "No changes detected in opportunities.json. Skipping push."
+        fi
