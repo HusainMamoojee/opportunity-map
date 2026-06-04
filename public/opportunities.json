@@ -1,134 +1,112 @@
 [
     {
         "id": 1,
-        "title": "Graduates24",
-        "company": "Graduates24",
+        "title": "Graduate Programmes\n                    124",
+        "company": "Graduate Programmes\n",
         "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
         "tag": "NEW",
-        "sector": "Corporate"
+        "sector": "All Fields"
     },
     {
         "id": 2,
-        "title": "Internships",
-        "company": "Internships",
-        "type": "GRADUATE",
+        "title": "Internships\n                    1490",
+        "company": "Internships\n ",
+        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
         "tag": "NEW",
-        "sector": "Corporate"
+        "sector": "All Fields"
     },
     {
         "id": 3,
-        "title": "Graduate Programmes",
-        "company": "Graduate",
-        "type": "GRADUATE",
+        "title": "Learnerships\n                    472",
+        "company": "Learnerships\n ",
+        "type": "LEARNERSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
         "tag": "NEW",
-        "sector": "Corporate"
+        "sector": "All Fields"
     },
     {
         "id": 4,
-        "title": "Internships",
-        "company": "Internships",
-        "type": "GRADUATE",
+        "title": "Transnet Freight Rail (TFR) Internship Programme 2026\n                                       ",
+        "company": "Transnet Freight",
+        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
         "tag": "NEW",
-        "sector": "Corporate"
+        "sector": "All Fields"
     },
     {
         "id": 5,
-        "title": "Graduate Programmes",
-        "company": "Graduate",
-        "type": "GRADUATE",
+        "title": "Pick n Pay: Buyer Internship Programme 2026\n                                       ",
+        "company": "Pick n Pay",
+        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
         "tag": "NEW",
-        "sector": "Corporate"
+        "sector": "All Fields"
     },
     {
         "id": 6,
-        "title": "Graduate Programmes\n                    124",
-        "company": "Graduate",
-        "type": "GRADUATE",
+        "title": "Pick n Pay: Master Bake Learnership Programme 2026\n                                       ",
+        "company": "Pick n Pay",
+        "type": "LEARNERSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
         "tag": "NEW",
-        "sector": "Corporate"
+        "sector": "All Fields"
     },
     {
         "id": 7,
-        "title": "Internships\n                    1490",
-        "company": "Internships\n",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "Corporate"
-    },
-    {
-        "id": 8,
-        "title": "Transnet Freight Rail (TFR) Internship Programme 2026\n                                        New",
-        "company": "Transnet",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "Corporate"
-    },
-    {
-        "id": 9,
-        "title": "Pick n Pay: Buyer Internship Programme 2026\n                                        New",
-        "company": "Pick",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "Corporate"
-    },
-    {
-        "id": 10,
-        "title": "Pick n Pay: Master Bake Learnership Programme 2026\n                                        New",
-        "company": "Pick",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "Corporate"
-    },
-    {
-        "id": 11,
-        "title": "City of Johannesburg Internship Opportunities 2026\n                                        New",
-        "company": "City",
-        "type": "GRADUATE",
+        "title": "City of Johannesburg Internship Opportunities 2026\n                                       ",
+        "company": "City of",
+        "type": "INTERNSHIP",
         "location": "Johannesburg",
         "lng": 28.0473,
         "lat": -26.2041,
         "tag": "NEW",
-        "sector": "Corporate"
+        "sector": "All Fields"
     },
     {
-        "id": 12,
+        "id": 8,
         "title": "Sasol: Inspector In Training Programme 2026",
-        "company": "Sasol:",
+        "company": "Sasol",
         "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
         "tag": "NEW",
-        "sector": "Corporate"
+        "sector": "All Fields"
+    },
+    {
+        "id": 9,
+        "title": "Vodacom: Internships - Early Careers Programme",
+        "company": "Vodacom",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 10,
+        "title": "Old Mutual Chartered Accounting (CA) Bursary 2027",
+        "company": "Old Mutual",
+        "type": "BURSARY",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
     }
 ]
