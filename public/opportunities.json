@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "PEP: Graduate Internships 2026",
+        "company": "PEP",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "YFM: Y Academy Internships 2026",
+        "company": "YFM",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "Tsebo Group: Food and Beverage Learnerships 2026",
         "company": "Tsebo Group",
         "type": "LEARNERSHIP",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "Discovery: Internship Programme 2026",
         "company": "Discovery",
         "type": "INTERNSHIP",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "PPS Investments: Graduate Internships 2026",
         "company": "PPS Investments",
         "type": "INTERNSHIP",
@@ -33,32 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "Transnet Freight Rail (TFR) Internship Programme 2026",
         "company": "Transnet Freight",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Pick n Pay: Buyer Internship Programme 2026",
-        "company": "Pick n Pay",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Pick n Pay: Master Bake Learnership Programme 2026",
-        "company": "Pick n Pay",
-        "type": "LEARNERSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
