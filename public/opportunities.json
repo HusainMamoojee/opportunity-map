@@ -1,6 +1,17 @@
 [
     {
         "id": 1,
+        "title": "Valterra Platinum: Graduate Programme 2026",
+        "company": "Valterra Platinum",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
         "title": "Dis-Chem Dispensary Support Learnerships 2026",
         "company": "Dis",
         "type": "LEARNERSHIP",
@@ -11,7 +22,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "National Youth Service Programme Phase V 2026",
         "company": "National Youth",
         "type": "GRADUATE",
@@ -22,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "HomeChoice: Internship Opportunities 2026",
         "company": "HomeChoice",
         "type": "INTERNSHIP",
@@ -33,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "NBCRFLI: Internship Opportunities 2026",
         "company": "NBCRFLI",
         "type": "INTERNSHIP",
@@ -44,21 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "YFM: Y Academy Internships 2026",
         "company": "YFM",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Sasol: Fire Fighter Learnership Programme 2026",
-        "company": "Sasol",
-        "type": "LEARNERSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
