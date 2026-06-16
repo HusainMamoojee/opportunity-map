@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "Pepkor Internship Opportunities 2026",
+        "company": "Pepkor Internship",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "City of Johannesburg: EPWP Youth Employment Programme 2026",
+        "company": "City of Johannesburg",
+        "type": "GRADUATE",
+        "location": "Johannesburg",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "Sanlam Group: Graduate Internships 2026",
         "company": "Sanlam Group",
         "type": "INTERNSHIP",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "Motus Corporation: Graduate Internships 2026",
         "company": "Motus Corporation",
         "type": "INTERNSHIP",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Alpla Packaging: YES Internship Programme 2026",
         "company": "Alpla Packaging",
         "type": "INTERNSHIP",
@@ -33,31 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "Valterra Platinum: Graduate Programme 2026",
         "company": "Valterra Platinum",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Dis-Chem Dispensary Support Learnerships 2026",
-        "company": "Dis",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "National Youth Service Programme Phase V 2026",
-        "company": "National Youth",
         "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
