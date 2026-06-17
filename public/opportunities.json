@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "Hyundai: Trainee Programme 2026",
+        "company": "Hyundai",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "PRASA: Graduate In Training Programme 2026",
+        "company": "PRASA",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "Pepkor Internship Opportunities 2026",
         "company": "Pepkor Internship",
         "type": "INTERNSHIP",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "City of Johannesburg: EPWP Youth Employment Programme 2026",
         "company": "City of Johannesburg",
         "type": "GRADUATE",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Sanlam Group: Graduate Internships 2026",
         "company": "Sanlam Group",
         "type": "INTERNSHIP",
@@ -33,40 +55,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
-        "title": "Motus Corporation: Graduate Internships 2026",
-        "company": "Motus Corporation",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Alpla Packaging: YES Internship Programme 2026",
-        "company": "Alpla Packaging",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
         "id": 6,
-        "title": "Valterra Platinum: Graduate Programme 2026",
-        "company": "Valterra Platinum",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 7,
         "title": "Old Mutual: Imfundo Trust Bursary / Scholarship 2027",
         "company": "Old Mutual",
         "type": "BURSARY",
