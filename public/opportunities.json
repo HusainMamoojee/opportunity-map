@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "SACE: Internship Opportunities 2026",
+        "company": "SACE",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Sanlam Group: Graduate Internships 2026",
+        "company": "Sanlam Group",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "YFM: Y Academy Internships 2026",
+        "company": "YFM",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "Rand Water: Graduate Internships 2026",
         "company": "Rand Water",
         "type": "INTERNSHIP",
@@ -11,42 +44,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "FNB: App Academy Programme 2026",
         "company": "FNB",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "First National Bank (FNB) Graduate Opportunities 2026",
-        "company": "First National",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Vodacom: Internships - Early Careers Programme",
-        "company": "Vodacom",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Hyundai: Trainee Programme 2026",
-        "company": "Hyundai",
         "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
