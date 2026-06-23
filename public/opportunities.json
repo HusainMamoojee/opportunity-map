@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "DHL Group: Inhouse Graduate Internship Programme 2026",
+        "company": "DHL Group",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Department of Correctional Services (DCS): Internships 2026 / 2027",
+        "company": "Department of Correctional Services (DCS)",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "Capitec: Graduate Internships 2026",
         "company": "Capitec",
         "type": "INTERNSHIP",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "SACE: Internship Opportunities 2026",
         "company": "SACE",
         "type": "INTERNSHIP",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Sanlam Group: Graduate Internships 2026",
         "company": "Sanlam Group",
         "type": "INTERNSHIP",
@@ -33,40 +55,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
-        "title": "YFM: Y Academy Internships 2026",
-        "company": "YFM",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Rand Water: Graduate Internships 2026",
-        "company": "Rand Water",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
         "id": 6,
-        "title": "FNB: App Academy Programme 2026",
-        "company": "FNB",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 7,
         "title": "Old Mutual: Imfundo Trust Bursary / Scholarship 2027",
         "company": "Old Mutual",
         "type": "BURSARY",
