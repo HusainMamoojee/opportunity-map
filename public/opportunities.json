@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Metropolitan Tech Company: Internships 2026 / 2027",
+        "company": "Metropolitan Tech Company",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Capitec: Graduate Internships 2026",
+        "company": "Capitec",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Maersk: YES Learnerships 2026 / 2027",
+        "company": "Maersk",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "SA Government Internships 2026 / 2027",
         "company": "SA Government",
         "type": "INTERNSHIP",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "North West Department of Community Safety & Transport: Internships 2026 / 2027",
         "company": "North West Department of Community Safety & Transport",
         "type": "INTERNSHIP",
@@ -22,7 +55,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "SASSA: Work Intergrated Learning Programme (TVET Placement)",
         "company": "SASSA",
         "type": "GRADUATE",
@@ -33,29 +66,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
-        "title": "DHL Group: Inhouse Graduate Internship Programme 2026",
-        "company": "DHL Group",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Department of Correctional Services (DCS): Internships 2026 / 2027",
-        "company": "Department of Correctional Services (DCS)",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
+        "id": 7,
         "title": "Old Mutual: Imfundo Trust Bursary / Scholarship 2027",
         "company": "Old Mutual",
         "type": "BURSARY",
