@@ -1,6 +1,17 @@
 [
     {
         "id": 1,
+        "title": "PwC Digital Trust Graduate Internship Programme 2027",
+        "company": "PwC Digital",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
         "title": "The Innovation Hub: Graduate Internships 2026",
         "company": "The Innovation Hub",
         "type": "INTERNSHIP",
@@ -11,7 +22,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Pick n Pay: Buyer Internship Programme 2026",
         "company": "Pick n Pay",
         "type": "INTERNSHIP",
@@ -22,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "OUTsurance: Call Centre Learnerships 2026",
         "company": "OUTsurance",
         "type": "LEARNERSHIP",
@@ -33,32 +44,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Boxer Superstores: SETA Graduate Internship Programme 2026",
         "company": "Boxer Superstores",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "SACE: Internship Opportunities 2026",
-        "company": "SACE",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "DHL Express SA: GTW Customs Graduate Development Programme 2027",
-        "company": "DHL Express SA",
-        "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
