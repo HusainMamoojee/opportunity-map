@@ -1,6 +1,17 @@
 [
     {
         "id": 1,
+        "title": "MSC: Learnership Programme 2026",
+        "company": "MSC",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
         "title": "PwC Digital Trust Graduate Internship Programme 2027",
         "company": "PwC Digital",
         "type": "INTERNSHIP",
@@ -11,7 +22,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "The Innovation Hub: Graduate Internships 2026",
         "company": "The Innovation Hub",
         "type": "INTERNSHIP",
@@ -22,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Pick n Pay: Buyer Internship Programme 2026",
         "company": "Pick n Pay",
         "type": "INTERNSHIP",
@@ -33,21 +44,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "OUTsurance: Call Centre Learnerships 2026",
         "company": "OUTsurance",
         "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Boxer Superstores: SETA Graduate Internship Programme 2026",
-        "company": "Boxer Superstores",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
