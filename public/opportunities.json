@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "Foschini Group: Graduate Internships 2026 / 2027",
+        "company": "Foschini Group",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Senwes: Graduate Internship Programme",
+        "company": "Senwes",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "2026 Internships Closing Soon - Apply Now",
         "company": "2026 Internships Closing Soon",
         "type": "INTERNSHIP",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "Dis-Chem Dispensary Support Learnerships 2026",
         "company": "Dis",
         "type": "LEARNERSHIP",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "EconoFoods: Graduate Internship Programme 2026 / 2027",
         "company": "EconoFoods",
         "type": "INTERNSHIP",
@@ -33,31 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "Footgear: Internships (TVET Placement)",
         "company": "Footgear",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "MSC: Learnership Programme 2026",
-        "company": "MSC",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "PwC Digital Trust Graduate Internship Programme 2027",
-        "company": "PwC Digital",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
