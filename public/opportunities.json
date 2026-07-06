@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "Amazon: AWS Commercial Sales Internship 2026",
+        "company": "Amazon",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Nissan East Rand: Trainee Administrator",
+        "company": "Nissan East Rand",
+        "type": "ENTRY LEVEL",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "Clicks: Youth Employment Programme 2026 / 2027",
         "company": "Clicks",
         "type": "GRADUATE",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "EThekwini Municipality: Internships 2026 / 2027",
         "company": "EThekwini Municipality",
         "type": "INTERNSHIP",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "OUTsurance Hastings Direct Learnerships 2026",
         "company": "OUTsurance Hastings",
         "type": "LEARNERSHIP",
@@ -33,32 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "Omnia: Procurement Graduate Internship Programme 2026 / 2027",
         "company": "Omnia",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "BBD: IT Graduate Programme 2027",
-        "company": "BBD",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "FNB: App Academy Programme 2026",
-        "company": "FNB",
-        "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
