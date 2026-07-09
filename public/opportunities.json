@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Eduvos: Internship Opportunities 2026 / 2027",
+        "company": "Eduvos",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Clicks: Youth Employment Programme 2026 / 2027",
+        "company": "Clicks",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Select Auto Group: Trainee Programme 2026 / 2027",
+        "company": "Select Auto Group",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "IStore: Elevate Graduate Internship Programme 2026 / 2027",
         "company": "IStore",
         "type": "INTERNSHIP",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "Department of Tourism: Integrated Service Excellence Programme 2026",
         "company": "Department of Tourism",
         "type": "GRADUATE",
@@ -22,42 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "South African Council for Educators (SACE): Internships 2026",
         "company": "South African Council for Educators (SACE)",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Free State Department of Human Settlements: Graduate Internships 2026 / 2027",
-        "company": "Free State Department of Human Settlements",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Deloitte: Vacation Programme - Strategy & Transactions 2026",
-        "company": "Deloitte",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Amazon: AWS Commercial Sales Internship 2026",
-        "company": "Amazon",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
