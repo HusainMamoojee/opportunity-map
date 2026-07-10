@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "Capitec: Graduate Internships 2027",
+        "company": "Capitec",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Sage South Africa: Internship Opportunities",
+        "company": "Sage South Africa",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "PathCare: Phlebotomy Technician Learnerships 2027",
+        "company": "PathCare",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "Department of Transport and Community Safety: Traffic Learnerships",
+        "company": "Department of Transport and Community Safety",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "Eduvos: Internship Opportunities 2026 / 2027",
         "company": "Eduvos",
         "type": "INTERNSHIP",
@@ -11,54 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "Clicks: Youth Employment Programme 2026 / 2027",
         "company": "Clicks",
         "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Select Auto Group: Trainee Programme 2026 / 2027",
-        "company": "Select Auto Group",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "IStore: Elevate Graduate Internship Programme 2026 / 2027",
-        "company": "IStore",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Department of Tourism: Integrated Service Excellence Programme 2026",
-        "company": "Department of Tourism",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "South African Council for Educators (SACE): Internships 2026",
-        "company": "South African Council for Educators (SACE)",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
