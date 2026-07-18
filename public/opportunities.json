@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "SA Government Internships 2026 / 2027",
+        "company": "SA Government",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Eskom: Youth Employment Service (YES) Programme - Internships",
+        "company": "Eskom",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Dis-Chem: Dispensary Support Learnerships 2026 / 2027",
+        "company": "Dis-Chem",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "AVBOB: Internship Programme 2026 / 2027",
+        "company": "AVBOB",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "Vodacom: Internships - Early Careers Programme",
         "company": "Vodacom",
         "type": "INTERNSHIP",
@@ -11,53 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "Sanlam Group: Graduate Internships 2026 / 2027",
         "company": "Sanlam Group",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "EThekwini Municipality: Internships 2026 / 2027",
-        "company": "EThekwini Municipality",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "DHL Group: Gen Z Internship Programme 2026 / 2027",
-        "company": "DHL Group",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "First National Bank (FNB) Graduate Opportunities 2027",
-        "company": "First National",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "South African Breweries (SAB): Graduate Internships 2027",
-        "company": "South African Breweries (SAB)",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
