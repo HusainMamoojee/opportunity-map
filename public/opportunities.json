@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "Fidelity Services Group: Internship Programme 2026 / 2027",
+        "company": "Fidelity Services Group",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Clicks: UPD Graduate Internship Programme",
+        "company": "Clicks",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Ericsson: Graduate Internship Opportunities",
+        "company": "Ericsson",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "Senwes: Graduate Internship Programme",
+        "company": "Senwes",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "IStore: Elevate Graduate Internship Programme 2026 / 2027",
         "company": "IStore",
         "type": "INTERNSHIP",
@@ -11,53 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "The Foschini Group: YES Internship Opportunities",
         "company": "The Foschini Group",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Safety Cloud: SETA Administrator Internships",
-        "company": "Safety Cloud",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Clover: Call Centre Learnership Opportunities",
-        "company": "Clover",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Clicks Group: Graduate Internship Programme 2026 / 2027",
-        "company": "Clicks Group",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "2026 / 2027 Internships Closing Soon - Apply Now",
-        "company": "2026 / 2027 Internships Closing Soon",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
