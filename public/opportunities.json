@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Bombela Operating Company (BOC): Graduate Internships 2026 / 2027",
+        "company": "Bombela Operating Company (BOC)",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Sandvik: Internships (HR, Psychology, Finance, Accounting, Business Admin, Engineering)",
+        "company": "Sandvik",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Mpumalanga Office of the Premier: Internships 2026 / 2027",
+        "company": "Mpumalanga Office of the Premier",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "Eskom: YES Internship Opportunities - Gauteng",
         "company": "Eskom",
         "type": "INTERNSHIP",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "Famous Brands: Internship Programme 2026 / 2027",
         "company": "Famous Brands",
         "type": "INTERNSHIP",
@@ -22,42 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Eskom: Youth Employment Service (YES) Programme - Internships",
         "company": "Eskom",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Joburg City Theatres: Learnerships 2026 / 2027",
-        "company": "Joburg City Theatres",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Truworths Graduate Internships 2026",
-        "company": "Truworths Graduate",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Core Group: Graduate Internship Programme",
-        "company": "Core Group",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
