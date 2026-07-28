@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Capitec: Graduate Internships 2027",
+        "company": "Capitec",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "South African Qualifications Authority (SAQA): Internships 2026 / 2027",
+        "company": "South African Qualifications Authority (SAQA)",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "International Trade Administration Commission (ITAC): Internships 2026 / 2027",
+        "company": "International Trade Administration Commission (ITAC)",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "Standard Bank: Learnership / Internship Programmes",
         "company": "Standard Bank",
         "type": "INTERNSHIP",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "ETV: Internship Opportunities 2026 / 2027",
         "company": "ETV",
         "type": "INTERNSHIP",
@@ -22,42 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Unilever: Finance Internship Programme",
         "company": "Unilever",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "1Life: Internship Opportunities 2026 / 2027",
-        "company": "1Life",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Department of Employment and Labour: Internships 2027",
-        "company": "Department of Employment and Labour",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Bombela Operating Company (BOC): Graduate Internships 2026 / 2027",
-        "company": "Bombela Operating Company (BOC)",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
