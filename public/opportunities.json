@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Sanlam: Client Services Administrator Learnerships 2026 / 2027",
+        "company": "Sanlam",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Department of Employment and Labour: Internships 2027",
+        "company": "Department of Employment and Labour",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Core Group: YES Internship Programme (Warehouse Assistants)",
+        "company": "Core Group",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "AfroCentric Group: Internship Opportunities 2026 / 2027",
         "company": "AfroCentric Group",
         "type": "INTERNSHIP",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "SA Government Internships 2026 / 2027",
         "company": "SA Government",
         "type": "INTERNSHIP",
@@ -22,43 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Clicks: Youth Employment Programme 2026 / 2027",
         "company": "Clicks",
         "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Capitec: Graduate Internships 2027",
-        "company": "Capitec",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "South African Qualifications Authority (SAQA): Internships 2026 / 2027",
-        "company": "South African Qualifications Authority (SAQA)",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "International Trade Administration Commission (ITAC): Internships 2026 / 2027",
-        "company": "International Trade Administration Commission (ITAC)",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
