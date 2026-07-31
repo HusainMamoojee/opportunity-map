@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "Sanlam: Client Services Administrator Learnerships 2026 / 2027",
-        "company": "Sanlam",
-        "type": "LEARNERSHIP",
+        "title": "Boston Consulting Group (BCG): Entry Level Associate Programme 2027",
+        "company": "Boston Consulting Group (BCG)",
+        "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
@@ -12,6 +12,17 @@
     },
     {
         "id": 2,
+        "title": "NMG: Academy Graduate Internship Programme 2027",
+        "company": "NMG",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "Department of Employment and Labour: Internships 2027",
         "company": "Department of Employment and Labour",
         "type": "INTERNSHIP",
@@ -22,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Core Group: YES Internship Programme (Warehouse Assistants)",
         "company": "Core Group",
         "type": "INTERNSHIP",
@@ -33,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "AfroCentric Group: Internship Opportunities 2026 / 2027",
         "company": "AfroCentric Group",
         "type": "INTERNSHIP",
@@ -44,21 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "SA Government Internships 2026 / 2027",
         "company": "SA Government",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Clicks: Youth Employment Programme 2026 / 2027",
-        "company": "Clicks",
-        "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
