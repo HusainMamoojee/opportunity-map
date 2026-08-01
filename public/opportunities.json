@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Postbank: Learnership Programme",
+        "company": "Postbank",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Eskom: Youth Employment Service (YES) Programme - Internships",
+        "company": "Eskom",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "DHL Group: Learnerships 2026 / 2027",
+        "company": "DHL Group",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "Boston Consulting Group (BCG): Entry Level Associate Programme 2027",
         "company": "Boston Consulting Group (BCG)",
         "type": "GRADUATE",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "NMG: Academy Graduate Internship Programme 2027",
         "company": "NMG",
         "type": "INTERNSHIP",
@@ -22,42 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Department of Employment and Labour: Internships 2027",
         "company": "Department of Employment and Labour",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Core Group: YES Internship Programme (Warehouse Assistants)",
-        "company": "Core Group",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "AfroCentric Group: Internship Opportunities 2026 / 2027",
-        "company": "AfroCentric Group",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "SA Government Internships 2026 / 2027",
-        "company": "SA Government",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
