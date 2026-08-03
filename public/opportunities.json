@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "ITOO: Learnership Opportunities",
+        "company": "ITOO",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Sanlam: Claims Assessor Learnership Programme",
+        "company": "Sanlam",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "First National Bank (FNB) Graduate Opportunities 2027",
         "company": "First National",
         "type": "GRADUATE",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "Transnet: Work Integrated Learning (WIL) Trainee Programme",
         "company": "Transnet",
         "type": "GRADUATE",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Dis-Chem: Dispensary Support Learnerships 2026 / 2027",
         "company": "Dis-Chem",
         "type": "LEARNERSHIP",
@@ -33,31 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "SANParks: Internships (Law, Public Admin, Business Admin, Corporate Governance)",
         "company": "SANParks",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Postbank: Learnership Programme",
-        "company": "Postbank",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Eskom: Youth Employment Service (YES) Programme - Internships",
-        "company": "Eskom",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
