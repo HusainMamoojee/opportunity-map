@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "Education Labour Relations Council (ELRC): Internships 2026 / 2027",
+        "company": "Education Labour Relations Council (ELRC)",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Motus Corporation: Apprenticeship Programme | Kia Germiston",
+        "company": "Motus Corporation",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "NedBank: Quants Exploration Graduate Programme 2026",
+        "company": "NedBank",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "Afrirent Holdings: Customer Contact Center Internships",
+        "company": "Afrirent Holdings",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "ITOO: Learnership Opportunities",
         "company": "ITOO",
         "type": "LEARNERSHIP",
@@ -11,54 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "Sanlam: Claims Assessor Learnership Programme",
         "company": "Sanlam",
         "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "First National Bank (FNB) Graduate Opportunities 2027",
-        "company": "First National",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Transnet: Work Integrated Learning (WIL) Trainee Programme",
-        "company": "Transnet",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Dis-Chem: Dispensary Support Learnerships 2026 / 2027",
-        "company": "Dis-Chem",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "SANParks: Internships (Law, Public Admin, Business Admin, Corporate Governance)",
-        "company": "SANParks",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
