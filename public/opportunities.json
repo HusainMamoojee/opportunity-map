@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "Standard Bank: Internships & Learnerships 2026 / 2027",
+        "company": "Standard Bank",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Amazon: Internship Opportunities 2027",
+        "company": "Amazon",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Standard Bank: Learnership Opportunities",
+        "company": "Standard Bank",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "FLSmidth: Business Administration Learnerships",
+        "company": "FLSmidth",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "NedBank: Vacation Work Programme (Analyst)",
         "company": "NedBank",
         "type": "GRADUATE",
@@ -11,43 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "Simah Group: Internship Programme",
         "company": "Simah Group",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "National Prosecuting Authority (NPA): Aspirant Prosecutor Training Programme",
-        "company": "National Prosecuting Authority (NPA)",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Telkom: SAICA Trainee Programme (Articles Clerk)",
-        "company": "Telkom",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Clicks: Youth Employment Programme 2026 / 2027",
-        "company": "Clicks",
-        "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
