@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Publicis Groupe: Internship Opportunities 2026 / 2027",
+        "company": "Publicis Groupe",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Vox Telecommunications: Technical Internships",
+        "company": "Vox Telecommunications",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Old Mutual: Human Capital Internship Programme",
+        "company": "Old Mutual",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "Capitec: Graduate Internships 2027",
         "company": "Capitec",
         "type": "INTERNSHIP",
@@ -11,53 +44,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "Transnet: Work Integrated Learning (WIL) Trainee Programme",
         "company": "Transnet",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Standard Bank: Internships & Learnerships 2026 / 2027",
-        "company": "Standard Bank",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Amazon: Internship Opportunities 2027",
-        "company": "Amazon",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "FLSmidth: Business Administration Learnerships",
-        "company": "FLSmidth",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "NedBank: Vacation Work Programme (Analyst)",
-        "company": "NedBank",
         "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
