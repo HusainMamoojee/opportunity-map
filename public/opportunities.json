@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "SA Government Internships 2026 / 2027",
+        "company": "SA Government",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "SAOU: Administrative Internships (Admin, Finance, Marketing, Law)",
+        "company": "SAOU",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Metropolitan Life: Learnerships 2026 / 2027",
+        "company": "Metropolitan Life",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "Road Accident Fund (RAF): Technology and Digital Learnerships",
         "company": "Road Accident Fund (RAF)",
         "type": "LEARNERSHIP",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "Land Bank: Graduate Opportunities 2026 / 2027",
         "company": "Land Bank",
         "type": "GRADUATE",
@@ -22,42 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Nambiti Technologies: Systems Support Learnership",
         "company": "Nambiti Technologies",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Mpumalanga Department of Economic Development: Internships 2026 / 2027",
-        "company": "Mpumalanga Department of Economic Development",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Competition Commission: Workplace Experiential Learning - Internships",
-        "company": "Competition Commission",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Scania: Automotive Sales Advisor Learnerships 2026 / 2027",
-        "company": "Scania",
         "type": "LEARNERSHIP",
         "location": "South Africa",
         "lng": 28.0473,
