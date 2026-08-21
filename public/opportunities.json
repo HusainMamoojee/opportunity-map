@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "PPS Investments: Internship Opportunities",
+        "company": "PPS Investments",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "MTN Group: Internships - Risk and Compliance",
+        "company": "MTN Group",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Ingersoll Rand: Learnership Programme",
+        "company": "Ingersoll Rand",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "Apex Group Internships (Accounting, Finance, HR, IT, Legal, Marketing, Investment)",
+        "company": "Apex Group",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "Vodacom: Internships - Early Careers Programme",
         "company": "Vodacom",
         "type": "INTERNSHIP",
@@ -11,54 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "Broad Media: Graduate Opportunities 2026 / 2027",
         "company": "Broad Media",
         "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Sasol: Administration Learnerships 2026 / 2027",
-        "company": "Sasol",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Road Accident Fund (RAF): Claims Learnership Programme",
-        "company": "Road Accident Fund (RAF)",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "City of Johannesburg: Finance Internships",
-        "company": "City of Johannesburg",
-        "type": "INTERNSHIP",
-        "location": "Johannesburg",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "SA Government Internships 2026 / 2027",
-        "company": "SA Government",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
