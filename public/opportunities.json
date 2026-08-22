@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "Eskom: YES Internship Programme 2026 / 2027",
+        "company": "Eskom",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Momentum Internship Opportunities 2026 / 2027",
+        "company": "Momentum Internship",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "PPS Investments: Internship Opportunities",
         "company": "PPS Investments",
         "type": "INTERNSHIP",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "MTN Group: Internships - Risk and Compliance",
         "company": "MTN Group",
         "type": "INTERNSHIP",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Ingersoll Rand: Learnership Programme",
         "company": "Ingersoll Rand",
         "type": "LEARNERSHIP",
@@ -33,32 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "Apex Group Internships (Accounting, Finance, HR, IT, Legal, Marketing, Investment)",
         "company": "Apex Group",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Vodacom: Internships - Early Careers Programme",
-        "company": "Vodacom",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Broad Media: Graduate Opportunities 2026 / 2027",
-        "company": "Broad Media",
-        "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
