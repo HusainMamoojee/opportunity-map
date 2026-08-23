@@ -1,6 +1,17 @@
 [
     {
         "id": 1,
+        "title": "Rohlig Grindrod: YES Internship Opportunities 2027",
+        "company": "Rohlig Grindrod",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
         "title": "Eskom: YES Internship Programme 2026 / 2027",
         "company": "Eskom",
         "type": "INTERNSHIP",
@@ -11,7 +22,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Momentum Internship Opportunities 2026 / 2027",
         "company": "Momentum Internship",
         "type": "INTERNSHIP",
@@ -22,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "PPS Investments: Internship Opportunities",
         "company": "PPS Investments",
         "type": "INTERNSHIP",
@@ -33,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "MTN Group: Internships - Risk and Compliance",
         "company": "MTN Group",
         "type": "INTERNSHIP",
@@ -44,21 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Ingersoll Rand: Learnership Programme",
         "company": "Ingersoll Rand",
         "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Apex Group Internships (Accounting, Finance, HR, IT, Legal, Marketing, Investment)",
-        "company": "Apex Group",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
