@@ -1,6 +1,17 @@
 [
     {
         "id": 1,
+        "title": "City of Tshwane: Ithuba Youth Economic Development Programme",
+        "company": "City of Tshwane",
+        "type": "GRADUATE",
+        "location": "Pretoria",
+        "lng": 28.2293,
+        "lat": -25.7479,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
         "title": "Saint-Gobain: Graduate Development Programme 2027",
         "company": "Saint-Gobain",
         "type": "GRADUATE",
@@ -11,7 +22,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "BDO: Financial Services Advisory Internships",
         "company": "BDO",
         "type": "INTERNSHIP",
@@ -22,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Eskom: Plant Operator Learnerships 2026 / 2027",
         "company": "Eskom",
         "type": "LEARNERSHIP",
@@ -33,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "GIBB: YES Programme 2026 / 2027",
         "company": "GIBB",
         "type": "GRADUATE",
@@ -44,7 +55,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Old Mutual: Imfundo Trust Bursary / Scholarship 2027",
         "company": "Old Mutual",
         "type": "BURSARY",
