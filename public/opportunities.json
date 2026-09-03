@@ -1,6 +1,61 @@
 [
     {
         "id": 1,
+        "title": "Bestmed Medical Scheme: Internship Opportunities",
+        "company": "Bestmed Medical Scheme",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Microsoft: Internship Programme 2027",
+        "company": "Microsoft",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Bloombergs: Internship Programme 2027",
+        "company": "Bloombergs",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "Momentum Internship Opportunities 2026 / 2027",
+        "company": "Momentum Internship",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
+        "title": "Momentum: Client Service Administrator Learnership",
+        "company": "Momentum",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 6,
         "title": "City of Tshwane: Ithuba Youth Economic Development Programme",
         "company": "City of Tshwane",
         "type": "GRADUATE",
@@ -11,51 +66,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
-        "title": "Saint-Gobain: Graduate Development Programme 2027",
-        "company": "Saint-Gobain",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "BDO: Financial Services Advisory Internships",
-        "company": "BDO",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Eskom: Plant Operator Learnerships 2026 / 2027",
-        "company": "Eskom",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "GIBB: YES Programme 2026 / 2027",
-        "company": "GIBB",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
+        "id": 7,
         "title": "Old Mutual: Imfundo Trust Bursary / Scholarship 2027",
         "company": "Old Mutual",
         "type": "BURSARY",
