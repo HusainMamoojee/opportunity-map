@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Deloitte: Vacation Work Programme 2027",
+        "company": "Deloitte",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Senwes: Learnerships 2026 / 2027",
+        "company": "Senwes",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Al Baraka Bank: Graduate Internships (Accounting, Finance, Economics or Marketing)",
+        "company": "Al Baraka Bank",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "BDO: YES Internship Opportunities 2026 / 2027",
         "company": "BDO",
         "type": "INTERNSHIP",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "Coronation Fund Managers: Trainee Programme (Research Analyst)",
         "company": "Coronation Fund Managers",
         "type": "GRADUATE",
@@ -22,43 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Transnet: Work Integrated Learning (WIL) Trainee Programme 2026 / 2027",
         "company": "Transnet",
         "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Western Cape Government: Graduate Internships 2026 / 2027",
-        "company": "Western Cape Government",
-        "type": "INTERNSHIP",
-        "location": "Cape Town",
-        "lng": 18.4232,
-        "lat": -33.9249,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "AFGRI: Apprenticeship Programme 2026 / 2027",
-        "company": "AFGRI",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Prime South Africa: Graduate Internships",
-        "company": "Prime South Africa",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
