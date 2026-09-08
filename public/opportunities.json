@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "SABC: Graduate Internships 2026 / 2027",
+        "company": "SABC",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Sanlam Group: Graduate Internships 2026 / 2027",
+        "company": "Sanlam Group",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Department of Home Affairs (DHA): Cadet Learnership Programme 2026 / 2027",
+        "company": "Department of Home Affairs (DHA)",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "DHL Group: Apprenticeship Programme 2026 / 2027",
+        "company": "DHL Group",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "Deloitte: Vacation Work Programme 2027",
         "company": "Deloitte",
         "type": "GRADUATE",
@@ -11,54 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "Senwes: Learnerships 2026 / 2027",
         "company": "Senwes",
         "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Al Baraka Bank: Graduate Internships (Accounting, Finance, Economics or Marketing)",
-        "company": "Al Baraka Bank",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "BDO: YES Internship Opportunities 2026 / 2027",
-        "company": "BDO",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Coronation Fund Managers: Trainee Programme (Research Analyst)",
-        "company": "Coronation Fund Managers",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Transnet: Work Integrated Learning (WIL) Trainee Programme 2026 / 2027",
-        "company": "Transnet",
-        "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
