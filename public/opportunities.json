@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "SGS: YES Programme 2026 / 2027",
+        "company": "SGS",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Vitality: Wealth Management Learnerships 2026 / 2027",
+        "company": "Vitality",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Clover: YES Learnerships 2026 / 2027",
+        "company": "Clover",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "Ernst & Young: Internship Opportunity 2027",
+        "company": "Ernst & Young",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "SABC: Graduate Internships 2026 / 2027",
         "company": "SABC",
         "type": "INTERNSHIP",
@@ -11,62 +55,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
-        "title": "Sanlam Group: Graduate Internships 2026 / 2027",
-        "company": "Sanlam Group",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Department of Home Affairs (DHA): Cadet Learnership Programme 2026 / 2027",
-        "company": "Department of Home Affairs (DHA)",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "DHL Group: Apprenticeship Programme 2026 / 2027",
-        "company": "DHL Group",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Deloitte: Vacation Work Programme 2027",
-        "company": "Deloitte",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
         "id": 6,
-        "title": "Senwes: Learnerships 2026 / 2027",
-        "company": "Senwes",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 7,
         "title": "Energy Mobility Education Trust: Scholarship / Bursary 2027",
         "company": "Energy Mobility Education Trust",
         "type": "BURSARY",
@@ -77,7 +66,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 8,
+        "id": 7,
         "title": "Old Mutual: Imfundo Trust Bursary / Scholarship 2027",
         "company": "Old Mutual",
         "type": "BURSARY",
