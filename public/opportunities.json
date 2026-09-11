@@ -1,6 +1,61 @@
 [
     {
         "id": 1,
+        "title": "Eskom: Group Capital Division Graduate Internships 2026 / 2027",
+        "company": "Eskom",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "BDO: Graduate Internships 2026 / 2027",
+        "company": "BDO",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Amazon Operations Internship Programme",
+        "company": "Amazon Operations",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "CSIR / MICT SETA: Internships (IT, Computer Science, Software)",
+        "company": "CSIR / MICT SETA",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
+        "title": "Metropolitan Life: Human Capital Learnerships 2026 / 2027",
+        "company": "Metropolitan Life",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 6,
         "title": "Wits Health Consortium: Yes4Youth Internships 2026 / 2027",
         "company": "Wits Health Consortium",
         "type": "INTERNSHIP",
@@ -11,51 +66,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
-        "title": "UBS: Off-Cycle Internships 2026 / 2027",
-        "company": "UBS",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "National Credit Regulator (NCR): Internships 2026 / 2027",
-        "company": "National Credit Regulator (NCR)",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "SABC: Marketing & Communication Internships",
-        "company": "SABC",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "SGS: YES Programme 2026 / 2027",
-        "company": "SGS",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
+        "id": 7,
         "title": "Energy Mobility Education Trust: Scholarship / Bursary 2027",
         "company": "Energy Mobility Education Trust",
         "type": "BURSARY",
@@ -66,7 +77,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 7,
+        "id": 8,
         "title": "Old Mutual: Imfundo Trust Bursary / Scholarship 2027",
         "company": "Old Mutual",
         "type": "BURSARY",
