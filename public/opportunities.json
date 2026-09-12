@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "Microsoft: Internship Programme 2027",
+        "company": "Microsoft",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Transnet Young Professional In Training Internships 2026 / 2027",
+        "company": "Transnet Young",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "MAZIV Group: Learnership Programme 2026 / 2027",
+        "company": "MAZIV Group",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "OUTsurance: Internships (HR, Psychology, Finance, Law, Admin, Business, Graphic Design)",
+        "company": "OUTsurance",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "Eskom: Group Capital Division Graduate Internships 2026 / 2027",
         "company": "Eskom",
         "type": "INTERNSHIP",
@@ -11,53 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "BDO: Graduate Internships 2026 / 2027",
         "company": "BDO",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Amazon Operations Internship Programme",
-        "company": "Amazon Operations",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "CSIR / MICT SETA: Internships (IT, Computer Science, Software)",
-        "company": "CSIR / MICT SETA",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Metropolitan Life: Human Capital Learnerships 2026 / 2027",
-        "company": "Metropolitan Life",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Wits Health Consortium: Yes4Youth Internships 2026 / 2027",
-        "company": "Wits Health Consortium",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
