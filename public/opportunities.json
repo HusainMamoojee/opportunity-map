@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "NTT DATA: Young Talent Graduate Programme 2027",
+        "company": "NTT DATA",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Aramex: Business Administration Learnership",
+        "company": "Aramex",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "VML: Client Service Internships (Commerce, Marketing, Communications, Business)",
+        "company": "VML",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "Anglo American: Youth Development Programme 2026 / 2027",
+        "company": "Anglo American",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "Public Investment Corporation (PIC): Internships 2026 / 2027",
         "company": "Public Investment Corporation (PIC)",
         "type": "INTERNSHIP",
@@ -11,53 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "SA Government Internships 2026 / 2027",
         "company": "SA Government",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "NACOSA: Internship Programme 2026 / 2027",
-        "company": "NACOSA",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Coronation: Graduate Internships 2026 / 2027",
-        "company": "Coronation",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Hollard: Learnership Programme 2026",
-        "company": "Hollard",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "South African Local Government Association (SALGA): Internships 2026 / 2027",
-        "company": "South African Local Government Association (SALGA)",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
