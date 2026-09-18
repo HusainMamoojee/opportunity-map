@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "title": "Arjo: Youth Employment Services (YES) Programme 2026 / 2027",
-        "company": "Arjo",
+        "title": "Eskom: Graduate in Training Programme 2026 / 2027",
+        "company": "Eskom",
         "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
@@ -12,8 +12,8 @@
     },
     {
         "id": 2,
-        "title": "Citi South Africa: Graduate Internship Programme 2026 / 2027",
-        "company": "Citi South Africa",
+        "title": "Transnet: Young Professional In Training Internships 2026 / 2027",
+        "company": "Transnet",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
@@ -23,19 +23,8 @@
     },
     {
         "id": 3,
-        "title": "Takealot Internships (N6 / TVET Graduates)",
-        "company": "Takealot Internships",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "NTT DATA: Young Talent Graduate Programme 2027",
-        "company": "NTT DATA",
+        "title": "Woolworths: Graduate Programme 2026 / 2027",
+        "company": "Woolworths",
         "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
@@ -44,9 +33,20 @@
         "sector": "All Fields"
     },
     {
+        "id": 4,
+        "title": "Dis-Chem: Dispensary Support Learnerships 2026 / 2027",
+        "company": "Dis-Chem",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
         "id": 5,
-        "title": "Aramex: Business Administration Learnership",
-        "company": "Aramex",
+        "title": "Department of Home Affairs (DHA): Cadet Learnership Programme 2026 / 2027",
+        "company": "Department of Home Affairs (DHA)",
         "type": "LEARNERSHIP",
         "location": "South Africa",
         "lng": 28.0473,
@@ -56,17 +56,6 @@
     },
     {
         "id": 6,
-        "title": "VML: Client Service Internships (Commerce, Marketing, Communications, Business)",
-        "company": "VML",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 7,
         "title": "Energy Mobility Education Trust: Scholarship / Bursary 2027",
         "company": "Energy Mobility Education Trust",
         "type": "BURSARY",
