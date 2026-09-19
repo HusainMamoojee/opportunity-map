@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Valterra Platinum: Learnerships 2026 / 2027",
+        "company": "Valterra Platinum",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Old Mutual: Multiskilled Consultant Graduate Internships 2026 / 2027",
+        "company": "Old Mutual",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Discovery: Wealth Management Learnerships 2026 / 2027",
+        "company": "Discovery",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "Eskom: Graduate in Training Programme 2026 / 2027",
         "company": "Eskom",
         "type": "GRADUATE",
@@ -11,43 +44,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "Transnet: Young Professional In Training Internships 2026 / 2027",
         "company": "Transnet",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Woolworths: Graduate Programme 2026 / 2027",
-        "company": "Woolworths",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Dis-Chem: Dispensary Support Learnerships 2026 / 2027",
-        "company": "Dis-Chem",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Department of Home Affairs (DHA): Cadet Learnership Programme 2026 / 2027",
-        "company": "Department of Home Affairs (DHA)",
-        "type": "LEARNERSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
