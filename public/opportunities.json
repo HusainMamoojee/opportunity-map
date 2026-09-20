@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "Department of Transport: Internships 2026 / 2027",
+        "company": "Department of Transport",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Eskom: YES Internship Programme - Gauteng",
+        "company": "Eskom",
+        "type": "INTERNSHIP",
+        "location": "Johannesburg",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "Valterra Platinum: Learnerships 2026 / 2027",
         "company": "Valterra Platinum",
         "type": "LEARNERSHIP",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "Old Mutual: Multiskilled Consultant Graduate Internships 2026 / 2027",
         "company": "Old Mutual",
         "type": "INTERNSHIP",
@@ -22,32 +44,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Discovery: Wealth Management Learnerships 2026 / 2027",
         "company": "Discovery",
         "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Eskom: Graduate in Training Programme 2026 / 2027",
-        "company": "Eskom",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Transnet: Young Professional In Training Internships 2026 / 2027",
-        "company": "Transnet",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
