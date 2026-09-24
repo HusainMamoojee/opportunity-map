@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Senwes: Learnerships 2026 / 2027",
+        "company": "Senwes",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Milpark Education: Graduate Internship Programme 2026 / 2027",
+        "company": "Milpark Education",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Old Mutual: OMIG Graduate Internship Programme 2026 / 2027",
+        "company": "Old Mutual",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "Public Investment Corporation (PIC): Internships 2026 / 2027",
         "company": "Public Investment Corporation (PIC)",
         "type": "INTERNSHIP",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "City of Tshwane: Ithuba Youth Economic Development Programme",
         "company": "City of Tshwane",
         "type": "GRADUATE",
@@ -22,43 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "SA Government Internships 2026 / 2027",
         "company": "SA Government",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "South African Breweries (SAB): DynamX Trainee Programme 2027",
-        "company": "South African Breweries (SAB)",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "2026 / 2027 Internships Closing Soon - Apply Now",
-        "company": "2026 / 2027 Internships Closing Soon",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Discovery: Learnership Opportunities 2026 / 2027",
-        "company": "Discovery",
-        "type": "LEARNERSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
