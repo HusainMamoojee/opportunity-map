@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "Microsoft: Internship Programme 2027",
+        "company": "Microsoft",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "AFGRI: Graduate Internship Programme 2027",
+        "company": "AFGRI",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "SARS: Customs & Excise Cadet Learnership Programme 2026 / 2027",
+        "company": "SARS",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "VML: Client Service Internships (Commerce, Marketing, Communications, Business)",
+        "company": "VML",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "AFGRI: Apprenticeship Programme 2026 / 2027",
         "company": "AFGRI",
         "type": "GRADUATE",
@@ -11,53 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "Department of Transport: Internships 2026 / 2027",
         "company": "Department of Transport",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Rohlig Grindrod: YES Internship Opportunities 2027",
-        "company": "Rohlig Grindrod",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Transnet: Controller Trainee Programme 2026 / 2027",
-        "company": "Transnet",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Senwes: Learnerships 2026 / 2027",
-        "company": "Senwes",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Milpark Education: Graduate Internship Programme 2026 / 2027",
-        "company": "Milpark Education",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
