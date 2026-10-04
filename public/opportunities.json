@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "Government Printing Works (GPW): Internships 2026 / 2027",
+        "company": "Government Printing Works (GPW)",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Nestl\u00e9: Work Integrated Learning Internship Programme 2026 / 2027",
+        "company": "Nestl\u00e9",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "Transnet: Controller Trainee Programme 2026 / 2027",
         "company": "Transnet",
         "type": "GRADUATE",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "ABSA: Unemployed Youth Learnerships - Microinsurance Sales Consultant",
         "company": "ABSA",
         "type": "LEARNERSHIP",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Momentum Investments: YES Internships / Learnerships",
         "company": "Momentum Investments",
         "type": "INTERNSHIP",
@@ -33,31 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "Amazon: Internship Opportunities 2027",
         "company": "Amazon",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Freedom Stationery: Internship Opportunities 2026 / 2027",
-        "company": "Freedom Stationery",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Industrial Development Corporation (IDC): Graduate Internships 2026 / 2027",
-        "company": "Industrial Development Corporation (IDC)",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
