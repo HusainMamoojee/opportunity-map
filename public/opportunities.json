@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Symrise South Africa: Internships 2026 / 2027",
+        "company": "Symrise South Africa",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Rand Mutual Assurance: Learnerships 2026 / 2027",
+        "company": "Rand Mutual Assurance",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Miway: Client Services Internships 2026 / 2027",
+        "company": "Miway",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "GrowthPoint Properties: Graduate Programme 2027",
         "company": "GrowthPoint Properties",
         "type": "GRADUATE",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "2026 / 2027 Internships Closing Soon - Apply Now",
         "company": "2026 / 2027 Internships Closing Soon",
         "type": "INTERNSHIP",
@@ -22,44 +55,11 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Gauteng College of Nursing: Nurse Traineeship Programme - Intake 2027",
         "company": "Gauteng College of Nursing",
         "type": "GRADUATE",
         "location": "Johannesburg",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "SITA: Learnerships 2026 / 2027",
-        "company": "SITA",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Samsung: Graduate Internships 2026 / 2027",
-        "company": "Samsung",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "SAHPRA: Business Administration Learnerships 2026 / 2027",
-        "company": "SAHPRA",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
         "tag": "NEW",
