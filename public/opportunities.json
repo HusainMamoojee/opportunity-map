@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Rand Refinery: Internships (Commerce, Business Admin, Marketing, Business Management)",
+        "company": "Rand Refinery",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Dis-Chem: Dispensary Support Learnerships 2026 / 2027",
+        "company": "Dis-Chem",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Guardrisk: Internship Opportunities 2026 / 2027",
+        "company": "Guardrisk",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "Government Printing Works (GPW): Internships 2026 / 2027",
         "company": "Government Printing Works (GPW)",
         "type": "INTERNSHIP",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "National Bioproducts Institute (NBI): YES internships 2026 / 2027",
         "company": "National Bioproducts Institute (NBI)",
         "type": "INTERNSHIP",
@@ -22,43 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "Bosch Group: Youth Employment Service Programme - 2026 / 2027",
         "company": "Bosch Group",
         "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Sasol: Artisan Maintenance Learnerships 2026 / 2027",
-        "company": "Sasol",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Symrise South Africa: Internships 2026 / 2027",
-        "company": "Symrise South Africa",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Rand Mutual Assurance: Learnerships 2026 / 2027",
-        "company": "Rand Mutual Assurance",
-        "type": "LEARNERSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
