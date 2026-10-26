@@ -1,6 +1,17 @@
 [
     {
         "id": 1,
+        "title": "2026 / 2027 Internships Closing Soon - Apply Now",
+        "company": "2026 / 2027 Internships Closing Soon",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
         "title": "AFGRI: Learnerships 2026 / 2027",
         "company": "AFGRI",
         "type": "LEARNERSHIP",
@@ -11,7 +22,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Cubix: Graduate Internships 2026 / 2027",
         "company": "Cubix",
         "type": "INTERNSHIP",
@@ -22,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "NedBank: TalentForge Tech Graduate Programme 2027",
         "company": "NedBank",
         "type": "GRADUATE",
@@ -33,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Kia South Africa: Internships (Commerce, Accounting, Finance, Financial Management)",
         "company": "Kia South Africa",
         "type": "INTERNSHIP",
@@ -44,20 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "National Lotteries Commission (NLC): Internships 2026 / 2027",
         "company": "National Lotteries Commission (NLC)",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "South African Wind Energy Association (SAWEA): Internships 2027",
-        "company": "South African Wind Energy Association (SAWEA)",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
