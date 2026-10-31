@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "South African Revenue Service (SARS): Graduate Talent Pool",
+        "company": "South African Revenue Service (SARS)",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Freedom Stationery: Internship Opportunities 2026 / 2027",
+        "company": "Freedom Stationery",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "FTI Consulting: Graduate Placement - Internships 2026 / 2027",
         "company": "FTI Consulting",
         "type": "INTERNSHIP",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "Fidelity Services Group: Internship Opportunities 2026 / 2027",
         "company": "Fidelity Services Group",
         "type": "INTERNSHIP",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Fidelity Services Group: Admin Internships 2026 / 2027",
         "company": "Fidelity Services Group",
         "type": "INTERNSHIP",
@@ -33,31 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "South African Wind Energy Association (SAWEA): Internships 2027",
         "company": "South African Wind Energy Association (SAWEA)",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "RedBull: On Premise Graduate Trainee Programme 2026 / 2027",
-        "company": "RedBull",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Symrise South Africa: Internships 2026 / 2027",
-        "company": "Symrise South Africa",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
