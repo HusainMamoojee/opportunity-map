@@ -1,6 +1,17 @@
 [
     {
         "id": 1,
+        "title": "City of Johannesburg: Internship Opportunities 2026 / 2027",
+        "company": "City of Johannesburg",
+        "type": "INTERNSHIP",
+        "location": "Johannesburg",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
         "title": "Grindrod: Graduate Internships 2026 / 2027",
         "company": "Grindrod",
         "type": "INTERNSHIP",
@@ -11,7 +22,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Competition Commission: Work Integrated Learning (WIL) Internships 2026 / 2027",
         "company": "Competition Commission",
         "type": "INTERNSHIP",
@@ -22,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Petroleum Agency SA: Internships 2026 / 2027",
         "company": "Petroleum Agency SA",
         "type": "INTERNSHIP",
@@ -33,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "South African Revenue Service (SARS): Graduate Talent Pool",
         "company": "South African Revenue Service (SARS)",
         "type": "GRADUATE",
@@ -44,20 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Freedom Stationery: Internship Opportunities 2026 / 2027",
         "company": "Freedom Stationery",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "FTI Consulting: Graduate Placement - Internships 2026 / 2027",
-        "company": "FTI Consulting",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
