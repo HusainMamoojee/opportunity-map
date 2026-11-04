@@ -1,6 +1,50 @@
 [
     {
         "id": 1,
+        "title": "BMW Group: YES Internship Programme 2027",
+        "company": "BMW Group",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Super Group Betway Africa: Graduate Programme 2027",
+        "company": "Super Group Betway Africa",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Pick n Pay: UIF Skills Programmes 2026 / 2027",
+        "company": "Pick n Pay",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "South African Revenue Service (SARS): Graduate Talent Pool",
+        "company": "South African Revenue Service (SARS)",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "Clover: Vacation Work Programme 2026 / 2027",
         "company": "Clover",
         "type": "GRADUATE",
@@ -11,55 +55,11 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 6,
         "title": "Wits Health Consortium: Internship Programme 2026 / 2027",
         "company": "Wits Health Consortium",
         "type": "INTERNSHIP",
         "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Heineken: Global Graduate Internships 2026 / 2027",
-        "company": "Heineken",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Sefako Makgatho Health Sciences University (SMU): Internships 2026 / 2027",
-        "company": "Sefako Makgatho Health Sciences University (SMU)",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "DHL Group: YES4Youth Learnerships 2026 / 2027",
-        "company": "DHL Group",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "City of Johannesburg: Internship Opportunities 2026 / 2027",
-        "company": "City of Johannesburg",
-        "type": "INTERNSHIP",
-        "location": "Johannesburg",
         "lng": 28.0473,
         "lat": -26.2041,
         "tag": "NEW",
