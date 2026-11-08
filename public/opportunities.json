@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Pick n Pay: Wholesale & Retail Operations Learnerships 2027",
+        "company": "Pick n Pay",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "DHL Group: YES4Youth Learnerships 2026 / 2027",
+        "company": "DHL Group",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "ABB South Africa: Graduate Internships 2027",
+        "company": "ABB South Africa",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "NERSA: Internship Opportunities 2026 / 2027",
         "company": "NERSA",
         "type": "INTERNSHIP",
@@ -11,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "Publicis Groupe Africa: Graduate Internships 2027",
         "company": "Publicis Groupe Africa",
         "type": "INTERNSHIP",
@@ -22,42 +55,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "SA Government Internships 2026 / 2027",
         "company": "SA Government",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "BMW Group South Africa: Graduate Programme 2027",
-        "company": "BMW Group South Africa",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "2026 / 2027 Internships Closing Soon - Apply Now",
-        "company": "2026 / 2027 Internships Closing Soon",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "South African Police Service (SAPS): Police Trainees / Internships 2027",
-        "company": "South African Police Service (SAPS)",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
