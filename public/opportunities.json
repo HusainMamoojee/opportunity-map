@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "Media Development and Diversity Agency (MDDA): Internships 2027",
+        "company": "Media Development and Diversity Agency (MDDA)",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Transnet: ICT Young Professional Programme 2027",
+        "company": "Transnet",
+        "type": "GRADUATE",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "Discovery: Wealth Management Learnerships 2026 / 2027",
         "company": "Discovery",
         "type": "LEARNERSHIP",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "Givaudan: Customer Care Learnerships 2026 / 2027",
         "company": "Givaudan",
         "type": "LEARNERSHIP",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Department of Mineral and Petroleum Resources (DMPR): Internships 2027",
         "company": "Department of Mineral and Petroleum Resources (DMPR)",
         "type": "INTERNSHIP",
@@ -33,32 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "Putco: Graduate Internships 2026 / 2027",
         "company": "Putco",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Pick n Pay: Wholesale & Retail Operations Learnerships 2027",
-        "company": "Pick n Pay",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "DHL Group: YES4Youth Learnerships 2026 / 2027",
-        "company": "DHL Group",
-        "type": "LEARNERSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
