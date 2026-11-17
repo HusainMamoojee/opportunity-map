@@ -1,19 +1,8 @@
 [
     {
         "id": 1,
-        "title": "Truworths: Planner Graduate Trainee Programme 2027",
-        "company": "Truworths",
-        "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 2,
-        "title": "Giesecke+Devrient: Internships (YES Programme) 2027",
-        "company": "Giesecke+Devrient",
+        "title": "Visa: Internship Opportunities 2026 / 2027",
+        "company": "Visa",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
@@ -22,9 +11,9 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
-        "title": "Old Mutual Trainee Programme (Underwriter)",
-        "company": "Old Mutual",
+        "id": 2,
+        "title": "Engen: Graduate Trainee Programme 2027",
+        "company": "Engen",
         "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
@@ -33,9 +22,20 @@
         "sector": "All Fields"
     },
     {
+        "id": 3,
+        "title": "ABSA: Junior Learnerships 2026 / 2027",
+        "company": "ABSA",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
         "id": 4,
-        "title": "Citi South Africa: Graduate Internships (Banking - Corporate Finance)",
-        "company": "Citi South Africa",
+        "title": "Coronation: Client Excellence Graduate Internships 2027",
+        "company": "Coronation",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
@@ -45,8 +45,8 @@
     },
     {
         "id": 5,
-        "title": "PSiRA: Internship Opportunities 2027",
-        "company": "PSiRA",
+        "title": "Cape Union Mart: BI Internships (Commerce, Engineering, IT, Data, Statistics)",
+        "company": "Cape Union Mart",
         "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
@@ -56,9 +56,9 @@
     },
     {
         "id": 6,
-        "title": "Media Development and Diversity Agency (MDDA): Internships 2027",
-        "company": "Media Development and Diversity Agency (MDDA)",
-        "type": "INTERNSHIP",
+        "title": "Truworths: Planner Graduate Trainee Programme 2027",
+        "company": "Truworths",
+        "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
