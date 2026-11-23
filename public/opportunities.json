@@ -1,6 +1,28 @@
 [
     {
         "id": 1,
+        "title": "OUTsurance: Youi Learnership Opportunities 2026 / 2027",
+        "company": "OUTsurance",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Competition Commission: Work Integrated Learning (WIL) Internships 2026 / 2027",
+        "company": "Competition Commission",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
         "title": "South African Civil Aviation Authority (SACAA): Internships 2026 / 2027",
         "company": "South African Civil Aviation Authority (SACAA)",
         "type": "INTERNSHIP",
@@ -11,7 +33,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 4,
         "title": "Department Of Land Reform and Rural Development (DLLRD): Internships 2026 / 2027",
         "company": "Department Of Land Reform and Rural Development (DLLRD)",
         "type": "INTERNSHIP",
@@ -22,7 +44,7 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 5,
         "title": "Visa: Business Admin Services Learnerships 2026 / 2027",
         "company": "Visa",
         "type": "LEARNERSHIP",
@@ -33,32 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 4,
+        "id": 6,
         "title": "SAFCOL: Silviculture Learnerships 2026 / 2027",
         "company": "SAFCOL",
         "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "Council for Geoscience: Office of the CEO Internships 2026 / 2027",
-        "company": "Council for Geoscience",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Siemens: Bid Administration Internships 2026 / 2027",
-        "company": "Siemens",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
