@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "Bosch Group: Youth Employment Service Programme - 2026 / 2027",
-        "company": "Bosch Group",
-        "type": "GRADUATE",
+        "title": "ABB South Africa: Graduate Internships 2027",
+        "company": "ABB South Africa",
+        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
@@ -12,6 +12,39 @@
     },
     {
         "id": 2,
+        "title": "East London IDZ: Graduate Internships 2026 / 2027",
+        "company": "East London IDZ",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "ABSA Home Loans Junior Learnerships 2026 / 2027",
+        "company": "ABSA Home",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
+        "title": "DHL Group: YES4Youth Learnerships 2026 / 2027",
+        "company": "DHL Group",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 5,
         "title": "South African Forestry Company (SAFCOL): YES Internships 2026 / 2027",
         "company": "South African Forestry Company (SAFCOL)",
         "type": "INTERNSHIP",
@@ -22,43 +55,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 3,
+        "id": 6,
         "title": "WeThinkCode: Youth Development Programme 2027",
         "company": "WeThinkCode",
         "type": "GRADUATE",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "Competition Commission: Work Integrated Learning (WIL) Internships 2026 / 2027",
-        "company": "Competition Commission",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "South African Civil Aviation Authority (SACAA): Internships 2026 / 2027",
-        "company": "South African Civil Aviation Authority (SACAA)",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "Department Of Land Reform and Rural Development (DLLRD): Internships 2026 / 2027",
-        "company": "Department Of Land Reform and Rural Development (DLLRD)",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
