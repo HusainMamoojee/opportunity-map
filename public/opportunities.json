@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Sasria: Social Transformation Internships 2026 / 2027",
+        "company": "Sasria",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "First National Bank (FNB): FirstJob Learnerships 2026 / 2027",
+        "company": "First National Bank (FNB)",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Hollard: Unemployed Youth Learnership Programme 2026 / 2027",
+        "company": "Hollard",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "ABB South Africa: Graduate Internships 2027",
         "company": "ABB South Africa",
         "type": "INTERNSHIP",
@@ -11,54 +44,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "East London IDZ: Graduate Internships 2026 / 2027",
         "company": "East London IDZ",
         "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "ABSA Home Loans Junior Learnerships 2026 / 2027",
-        "company": "ABSA Home",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "DHL Group: YES4Youth Learnerships 2026 / 2027",
-        "company": "DHL Group",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "South African Forestry Company (SAFCOL): YES Internships 2026 / 2027",
-        "company": "South African Forestry Company (SAFCOL)",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 6,
-        "title": "WeThinkCode: Youth Development Programme 2027",
-        "company": "WeThinkCode",
-        "type": "GRADUATE",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
