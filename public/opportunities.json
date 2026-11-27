@@ -1,6 +1,39 @@
 [
     {
         "id": 1,
+        "title": "Eskom: Youth Employment Service (YES) Programme - Internships 2026 / 2027",
+        "company": "Eskom",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 2,
+        "title": "Tiger Brands: Future Leaders Graduate Internships 2027",
+        "company": "Tiger Brands",
+        "type": "INTERNSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 3,
+        "title": "Fidelity Services Group: Learnership Programme 2027",
+        "company": "Fidelity Services Group",
+        "type": "LEARNERSHIP",
+        "location": "South Africa",
+        "lng": 28.0473,
+        "lat": -26.2041,
+        "tag": "NEW",
+        "sector": "All Fields"
+    },
+    {
+        "id": 4,
         "title": "Sasria: Social Transformation Internships 2026 / 2027",
         "company": "Sasria",
         "type": "INTERNSHIP",
@@ -11,43 +44,10 @@
         "sector": "All Fields"
     },
     {
-        "id": 2,
+        "id": 5,
         "title": "First National Bank (FNB): FirstJob Learnerships 2026 / 2027",
         "company": "First National Bank (FNB)",
         "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 3,
-        "title": "Hollard: Unemployed Youth Learnership Programme 2026 / 2027",
-        "company": "Hollard",
-        "type": "LEARNERSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 4,
-        "title": "ABB South Africa: Graduate Internships 2027",
-        "company": "ABB South Africa",
-        "type": "INTERNSHIP",
-        "location": "South Africa",
-        "lng": 28.0473,
-        "lat": -26.2041,
-        "tag": "NEW",
-        "sector": "All Fields"
-    },
-    {
-        "id": 5,
-        "title": "East London IDZ: Graduate Internships 2026 / 2027",
-        "company": "East London IDZ",
-        "type": "INTERNSHIP",
         "location": "South Africa",
         "lng": 28.0473,
         "lat": -26.2041,
